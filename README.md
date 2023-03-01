@@ -1,8 +1,8 @@
 # hse_hw2_chip
 
-ссылка 
+ссылка https://colab.research.google.com/drive/1fpou6a4oRba4VGc1uvL66_aOckyg3T_P?usp=sharing
 
-статистика из bowtie_2: https://colab.research.google.com/drive/1fpou6a4oRba4VGc1uvL66_aOckyg3T_P?usp=sharing
+статистика из bowtie_2: 
 |               | reads         | unpaired  | aligned 0 | aligned 1 | aligned>1 | rate      |
 | ------------- |:-------------:|----------:|----------:|----------:|----------:|----------:|
 | ENCFF002AWS   | 33617911      | 100.00%   |  85.81%   |   3.94%   |  10.25%   |  14.19%   |
