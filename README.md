@@ -9,6 +9,6 @@
 | ENCFF002BBN   | 34013778      | 100.00%   |  87.26%   |   4.22%   |   8.52%   |  12.74%   |
 | ENCFF002AUB   | 15086162      | 100.00%   |  90.03%   |   4.89%   |   5.08%   |   9.97%   |
 
-Все html и pdf в папке data :
-venn и venn(1) для AWS; venn(2) и venn(3) для BNN
+Все html и pdf в папке data : \\
+venn и venn(1) для AWS; venn(2) и venn(3) для BNN \\
 в ноутбуке забыл поменять названия, поэтому AWS == ASU ; BNN == ARK
